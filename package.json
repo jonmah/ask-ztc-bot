@@ -2,5 +2,8 @@
   "name": "ask-ztc-bot",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@slack/bolt": "^3.4.0"
+  }
 }
